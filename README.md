@@ -62,3 +62,14 @@ VIII. CONSULTAS EN SQL
    a. Consulta multitabla
     
    b. Consulta de agrupación
+   
+   
+   BIBLIOGRAFÍA BÁSICA
+
+1 Developer Mozilla https://developer.mozilla.org/es/docs/Glossary/SQL
+
+2 Oracle https://www.oracle.com/mx/database/what-is-a-data-warehouse/
+
+3 Introducción a las bases de datos http://www.nachocabanes.com/tutors/ibd006.pdf
+
+4 Administrador de Base de datos https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4066
