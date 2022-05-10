@@ -1,3 +1,4 @@
 Reseña la historia de SQL.
 
-Ejemplifica los tipos de BD.
+
+Ejemplifica los Gestores de Bases de Datos según el tipo de BD.
