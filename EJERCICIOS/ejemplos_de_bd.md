@@ -77,6 +77,7 @@ Este sistema gestor de base de datos relacional está orientado a objetos y es l
 
 
 Redis
+  
  ![image](https://user-images.githubusercontent.com/87988894/168115451-57c85e30-eb64-45df-8639-d9b77c6d854a.png)
 
 
