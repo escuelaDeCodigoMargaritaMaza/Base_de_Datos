@@ -1,6 +1,11 @@
 # Base_de_Datos
 Módulo BD  de la Escuela de Código PILARES(Duración 30 hrs)
 
+## OBJETIVO
+El estudiantado aplicará conocimientos básicos de la estructura de base de datos
+en lenguaje de consulta SQL mediante ejercicios prácticos y reales, con el propósito de guardar,
+organizar y almacenar datos para fácil manejo.
+
 TEMARIO TALLER DE BASE DE DATOS
 
 I.INTRODUCCIÓN A BASE DE DATOS
