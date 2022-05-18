@@ -22,9 +22,7 @@ operaciones sobre estos archivos, tales como: (valor 1.5)
 2. Diseño de un modelo relacional
 
 Objetivo: Representar desde un modelo entidad relación un problema
-indicaciones: Solicitar al estudiantado abrir un editor de texto en su equipo asignado, en
-él escribirán, Taller, número de la práctica, nombre completo, folio y fecha,
-posteriormente deberán atender las indicaciones descritas y realizar la representación.
+
 
 Ejercicio:
 
