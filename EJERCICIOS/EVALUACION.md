@@ -32,6 +32,7 @@ Tenemos que diseñar una base de datos sobre proveedores y disponemos de la sigu
 información:
 
 Realiza el modelo entidad relación. (valor 6)
+
 Tenemos esta información sobre una cadena editorial:
 
 ● La editorial tiene varias sucursales, con su domicilio, teléfono y un código de
