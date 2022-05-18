@@ -8,14 +8,56 @@ mediante preguntas abiertas.
 Preguntas:
 
 1. ¿Cuáles son las cinco funciones principales del administrador de bases de datos?
+
+
+
+-asegurar funcionamiento de base de datos
+
+-retencion de datos
+
+-evitar perdida de datos
+
+-Solucionar incidencias y pérdidas de datos
+
+-Asegurar la seguridad de los datos
+
 (valor 1.5)
 
-2. Indíque cinco responsabilidades del sistema gestor de bases de datos (valor 1.5)
+2. Indíque cinco responsabilidades del sistema gestor de bases de datos 
+
+
+-Instalar, configurar y gestionar bases de datos.
+
+-Dar soporte al equipo de desarrollo, seguridad informática y redes.
+
+-Definir el esquema del diccionario de datos.
+
+-Especificar restricciones de integridad para asegurar los datos.
+
+-Garantizar la alta disponibilidad de la base de datos.
+
+(valor 1.5)
 
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
-operaciones sobre estos archivos, tales como: (valor 1.5)
+operaciones sobre estos archivos, tales como:
 
-4. ¿Qué es un Sistema de Información? (valor 1.5)
+-crear cuentas 
+
+-almacenamiento de datos
+
+-modificacion de datos
+
+-transeferencias
+
+
+
+(valor 1.5)
+
+4. ¿Qué es un Sistema de Información?
+
+Es sin sistema de almacenacion y ordenacion de datos listos para su uso 
+  
+  (valor 1.5)
 
 ## Práctica 2.
 
@@ -29,7 +71,9 @@ Ejercicio:
 Tenemos que diseñar una base de datos sobre proveedores y disponemos de la siguiente
 información:
 
-Realiza el modelo entidad relación. (valor 6)
+Realiza el modelo entidad relación. 
+
+(valor 6)
 
 Tenemos esta información sobre una cadena editorial:
 
@@ -53,3 +97,25 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
+
+
+
+lista
+-sucursal
+-empleos
+-revistas
+-secciones
+-ejemplares
+
+caracteristicas
+
+sucursal:domicilio, teléfono y un código desucursal
+empleados:nombre,apellidos, NIF y teléfono
+revistas:título,número de registro, periodicidad y tipo
+periodistas:nombre,apellidos, NIF, teléfono y especialidad
+secciones:titulo y extencion
+ejeplares:fecha, número de páginas y el número de ejemplares vendidos
+
+
+![image](https://user-images.githubusercontent.com/87988894/169089389-465c5411-42f0-48ac-9681-c3922a11efe4.png)
+
