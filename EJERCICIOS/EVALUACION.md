@@ -116,6 +116,6 @@ periodistas:nombre,apellidos, NIF, teléfono y especialidad
 secciones:titulo y extencion
 ejeplares:fecha, número de páginas y el número de ejemplares vendidos
 
+![image](https://user-images.githubusercontent.com/87988894/169561612-d41eb083-e27c-4913-a8a2-a009931a7862.png)
 
-![image](https://user-images.githubusercontent.com/87988894/169089389-465c5411-42f0-48ac-9681-c3922a11efe4.png)
 
