@@ -1,8 +1,8 @@
 1. Instalación del gestor de base de datos MYSQL
 
-1.1. Ingresamos al siguiente link : https://dev.mysql.com/downloads/
+Ingresamos al siguiente link : https://dev.mysql.com/downloads/
 
-1.2. Damos clip en el enlace MYSQL Community Server
+Damos clip en el enlace MYSQL Community Server
 
 ![image](https://user-images.githubusercontent.com/91554777/169728244-274da346-94cb-42a9-8c1f-a201cc8fe0af.png)
 
