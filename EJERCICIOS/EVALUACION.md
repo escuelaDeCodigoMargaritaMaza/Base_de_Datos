@@ -119,5 +119,5 @@ ejeplares:fecha, número de páginas y el número de ejemplares vendidos
 ![image](https://user-images.githubusercontent.com/87988894/169561612-d41eb083-e27c-4913-a8a2-a009931a7862.png)
 
 
-https://www.db-fiddle.com/f/wwWDRAVf4cckkibTY4FXH4/2
+[https://www.db-fiddle.com/f/wwWDRAVf4cckkibTY4FXH4/2](https://www.db-fiddle.com/f/wwWDRAVf4cckkibTY4FXH4/7)
 
