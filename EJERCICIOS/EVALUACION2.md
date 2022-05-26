@@ -40,8 +40,8 @@ principales, las ventajas y desventajas. (valor 6)
 ## Práctica 6.
 ### Herramienta en línea y ejercicio necesarios para realizar las prácticas
 
-1. Creación de base de datos.
-2. 
+Creación de base de datos.
+
 Objetivo: Demostrar mediante la creación de una base de datos el uso y la aplicación de
 las funciones
 
