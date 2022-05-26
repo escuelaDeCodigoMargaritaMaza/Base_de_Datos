@@ -25,17 +25,20 @@ boleano
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
-
+trancate es  un comando ddl y delet es un comando dli
+nos permite borrar toda una tabla  y delete datos especificos en las tablas
 
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
-
+para no repetir el dato y sea unico
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
+varchar es un caracter variable y char solo es caracter
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+lenguaje deconsulta estructurada  (structure query lenguaje)
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
@@ -63,6 +66,11 @@ principales, las ventajas y desventajas. (valor 6)
 
 ![image](https://user-images.githubusercontent.com/91554777/170415427-e2b7321b-a97f-43b0-ac24-6e506c307e6b.png)
 
+
+![image](https://user-images.githubusercontent.com/87988894/170516283-24df7daf-6cbf-4c3e-b536-305d38d54f34.png)
+
+
+
 ## Práctica 6.
 ### Herramienta en línea y ejercicio necesarios para realizar las prácticas
 
@@ -82,7 +90,11 @@ Tienda de informática
 
 Modelo entidad/relación
 
+![image](https://user-images.githubusercontent.com/87988894/170519186-996d48af-ba13-4483-8b13-dec6321b3086.png)
 
 
 
 Base de datos para MySQL
+
+https://www.db-fiddle.com/f/aoMPqbEVc4tDarFwDNZdcQ/1
+
