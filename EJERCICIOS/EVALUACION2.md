@@ -4,13 +4,32 @@ Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQ
 Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
+select 
+
+insert
+
+update
+
+delete
+
+
+
 
 2. Menciona 3 tipos de datos que existen: (valor .85)
 
+numerico
+
+caracter 
+
+boleano
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
+
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
@@ -20,15 +39,22 @@ Ejercicio:
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
+es una herramienta visual de diseño de bases de datos que integra desarrollo de software, administración de bases de datos, diseño de bases de datos, creación y mantenimiento para el sistema de base de datos MySQL.
+
 ## Práctica 5.
 ### Gestores de base de datos
 
 Objetivo: Categorizar los distintos gestores de base de datos que existen y señalar las
 ventajas y desventajas
 
+
 Evaluación: Conoce los tipos de gestores de base de datos 3 puntos.
 
+
+
 Domina sus diferencias de los gestores de base de datos mencionados 3 puntos
+
+
 
 Ejercicio:
 
