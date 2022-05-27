@@ -31,8 +31,14 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 
 * De la tabla revistas muestra las que sean de publicacion quincenal
+
+![image](https://user-images.githubusercontent.com/87988894/170774072-7ab23822-0aae-48af-8cb4-c2ca0cf8e390.png)
+ 
 * Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
+
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
+
+
 
 https://www.db-fiddle.com/f/iAUjGLoFoHtam2pK68Xh1B/1
 
