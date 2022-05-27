@@ -1,8 +1,8 @@
 En la BD utilizada en clase realiza las siguientes consultas:
 
 * La tabla empleado
-* La tabla revista
-* La tabla periodostas
+* Los titulos de las revistas
+* Los nombres, apellidos y especialidad de los periodostas
 * Muestra los empleados que estan en x sucursal
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 * Mustra que seccion esta en x revista, en que sucursal se imprimio y que empleados estan en esa sucursal.
