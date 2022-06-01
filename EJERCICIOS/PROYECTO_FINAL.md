@@ -29,3 +29,12 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
+
+
+Provedor( nombre,direcccion, ciudad , provinicia y codigo de provedor)
+
+suministros(fecha, catintadad)
+
+pieza(codigo_pieza,nombre, color, precio categoria)
+
+![image](https://user-images.githubusercontent.com/87988894/171446832-06f064bf-547f-4c12-8ada-34e74842076c.png)
