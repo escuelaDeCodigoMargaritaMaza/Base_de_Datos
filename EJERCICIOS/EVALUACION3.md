@@ -1,6 +1,6 @@
 
-### Práctica 3
-Data warehouse
+## Práctica 4
+### Data warehouse
 
 Objetivo: Demostrar la identificación de los elementos que componen data warehouse y
 su esquema
@@ -14,9 +14,8 @@ Ejercicio:
 3. Realiza un diseño del modelo copo de nieve (valor 2)
 
 
-### Práctica 7
-
-Funciones en SQL
+## Práctica 7
+### Funciones en SQL
 Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la gestión
 
 Ejercicio:
@@ -39,8 +38,8 @@ precio medio y el número total de productos de los fabricantes que tienen un pr
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
 
-### Práctica 8.
-Disparadores (Triggers)
+## Práctica 8.
+### Disparadores (Triggers)
 
 Objetivo: Demostrar las operaciones que se realizan en una base de datos.
 
