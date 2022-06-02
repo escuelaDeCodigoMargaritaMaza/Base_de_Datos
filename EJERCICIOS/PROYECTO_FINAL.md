@@ -31,11 +31,11 @@ un código de categoría único.
 ● Una pieza sólo puede pertenecer a una categoría.
 
 
-Provedor( nombre,direcccion, ciudad , provinicia y codigo de provedor)
+Provedor( nombre_prov,direcccion, ciudad , provinicia y codigo_prov)
 
-suministros(fecha, catintadad)
+suministros(id_suministro,fecha, catintadad)
 
-pieza(codigo_pieza,nombre, color, precio categoria)
+pieza(codigo_pieza,nombre_pieza, color, precio categoria)
 
 ![image](https://user-images.githubusercontent.com/87988894/171448863-459836a3-2c8d-4c33-9d5c-79c7dbd0838d.png)
 
