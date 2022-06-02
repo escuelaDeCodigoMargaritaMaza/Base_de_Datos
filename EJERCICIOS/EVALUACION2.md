@@ -1,4 +1,4 @@
-## Práctica 4.
+## Práctica 3.
 ### Introducción a SQL
 Objetivo: Demostrar la correcta identificación de los conceptos del lenguaje SQL
 Ejercicio:
