@@ -128,3 +128,9 @@ Una vez creada la tabla escriba dos triggers con las siguientes características
 Una vez creados los triggers escribe varias sentencias de inserción y actualización
 sobre la tabla alumnos y verifica que los triggers se están ejecutando
 correctamente.
+
+### DIFERENCIAS ENTRE WHERE Y HAVING
+WHERE opera sobre registros individuales, mientras que HAVING lo hace sobre un grupo de registros.
+
+La anterior es la diferencia principal entre estas dos cláusulas. Con WHERE podemos establecer una condición usando registros individuales, aquellos que cumplan con esta condición serán seleccionados (eliminados o actualizados); ahora bien, con HAVING podemos establecer una condición sobre un grupo de registros, algo muy importante es que HAVING acostumbra ir acompañado de la cláusula GROUP BY. Esto último es así dado que HAVING opera sobre los grupos que nos “retorna” GROUP BY.
+
