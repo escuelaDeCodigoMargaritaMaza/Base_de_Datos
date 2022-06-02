@@ -58,10 +58,13 @@ datos que se solicitan. (valor 4.5)
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
-medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
+medio superior a 200€. Es necesario mostrar el nombre del fabricante.(valor 4.5)
 
-https://www.db-fiddle.com/f/aoMPqbEVc4tDarFwDNZdcQ/2
+![image](https://user-images.githubusercontent.com/87988894/171723763-5975a7d0-5207-4462-b289-4c10bbbbd141.png)
 
+![image](https://user-images.githubusercontent.com/87988894/171723870-46d117c4-0cb5-4625-aec8-1c2c9f532306.png)
+
+https://www.db-fiddle.com/f/aoMPqbEVc4tDarFwDNZdcQ/3
 
 ## Práctica 8.
 ### Disparadores (Triggers)
