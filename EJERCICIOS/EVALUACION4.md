@@ -13,6 +13,7 @@ CUANDO HACEMOS GESTIONES DE BASE DE DATOS COMO INSET, UPDATE O DELETE
 
 4.- Cuáles son los dos escenarios de uso de un TRIGGER?
 
-El primero es cuando no podemos intervenir en el código fuente de la aplicación que trabaja sobre la base de datos sobre la que queremos actuar o reaccionar a sus eventos.
+EL PRIMERO ES CUANDO NO PODEMOS INTERVENIR EL CODIGO FUENTE  DE LA APP  SOBRE LA QUE QUEREMOS RACIONAR A LOS EVENTOS
 
-El segundo es cuando a pesar de disponer del código, éste pertenece a un software desarrollado por terceros y existe una probabilidad relativamente alta de aplicar actualizaciones o instalar pluggins, y hemos decidido modificar el código fuente lo menos posible para facilitar este tipo de tareas.
+
+EL SEGUNDO CUANDO APESAR DE DISPONER DEL CODIGO FUE DESAROLLADO POR TERCEROS Y HAY PROBILIDAD DE HACER ACTUALIZACIONES Y HEOMS DECIDIDO  MODIFICAR LO MENOS POSIBLE EL CODIGO  CON ESTE TIPO DE TAREAS
