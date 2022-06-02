@@ -37,6 +37,6 @@ suministros(id_suministro,fecha, catintadad)
 
 pieza(codigo_pieza,nombre_pieza, color, precio categoria)
 
-![image](https://user-images.githubusercontent.com/87988894/171448863-459836a3-2c8d-4c33-9d5c-79c7dbd0838d.png)
+![image](https://user-images.githubusercontent.com/87988894/171554837-5d76b826-edad-46ff-9738-bcb772335857.png)
 
 https://www.db-fiddle.com/f/oTkqmd9UeGnX1q1qx5ZS8U/2
