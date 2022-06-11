@@ -32,22 +32,14 @@ Una vez creada la tabla escriba dos triggers con las siguientes características
   
   o Se ejecuta antes de una operación de inserción.
   
-  o Si el nuevo valor de la nota que se quiere insertar es negativo, se guarda
-  como 0.
-  
-  o Si el nuevo valor de la nota que se quiere insertar es mayor que 10, se
-  guarda como 10.
+  o Se almacena la leyenda 'se ingreso un registro'
 
 ● Trigger2 : trigger_check_nota_before_update
   o Se ejecuta sobre la tabla alumnos.
   
   o Se ejecuta antes de una operación de actualización.
   
-  o Si el nuevo valor de la nota que se quiere actualizar es negativo, se guarda
-  como 0.
-  
-  o Si el nuevo valor de la nota que se quiere actualizar es mayor que 10, se
-  guarda como 10.
+  o Se ingresa la leyenda 'se modifico un regisstro'
   
 Una vez creados los triggers escribe varias sentencias de inserción y actualización
 sobre la tabla alumnos y verifica que los triggers se están ejecutando
