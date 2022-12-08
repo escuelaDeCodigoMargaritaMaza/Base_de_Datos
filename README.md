@@ -70,6 +70,8 @@ VIII. CONSULTAS EN SQL
    
    
    BIBLIOGRAFÍA BÁSICA
+   
+   kaggle manual https://docs.google.com/document/d/1IN3tyzHS2weTXVZz54sLumEs7CeD0Dh9PQgyLLEuXoY/edit?usp=sharing
 
 1 Developer Mozilla https://developer.mozilla.org/es/docs/Glossary/SQL
 
