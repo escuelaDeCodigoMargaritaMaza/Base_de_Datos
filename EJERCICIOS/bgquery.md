@@ -34,4 +34,11 @@ Enlilista el promedio por alcaldia y ordena de forma ascendente
     FROM `wifi.poblacion`
     GROUP BY(sexo);
     
+modificar el  nombre de la alcaldia AZCAPOTZALCO A AZC
+
+    UPDATE `wifi.poblacion`
+    SET alcaldia='AZC'
+    FROM `wifi.poblacion`
+    WHERE alcaldia='AZCAPOTZALCO';
+    
 MUESTRA LA ALCALDIA QUE TIENE MAS POBLACION
