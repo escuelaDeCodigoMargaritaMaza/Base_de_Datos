@@ -4,3 +4,6 @@
 
 
 https://docs.google.com/document/d/14cq3ItD-B78SN2NpcBLSI0uZuc0Zv1bM/edit?usp=share_link&ouid=110796242064368401531&rtpof=true&sd=true
+
+
+[MOCK_DATA.csv](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/files/11403101/MOCK_DATA.csv)
