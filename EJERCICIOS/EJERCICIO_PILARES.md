@@ -11,10 +11,19 @@ https://docs.google.com/document/d/14cq3ItD-B78SN2NpcBLSI0uZuc0Zv1bM/edit?usp=sh
 [pilares300.csv](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/files/11403113/pilares300.csv)
 
 Cuantos PILARES HAY en operacion?
+
 cuántos en obra?
+
 Muestra los PILARES en Azcapotzalco, agrupados por su status .
+
 Muestra los PILARES agrupados por zona en orden alfabético.
+
 Muestra los PILARES que comiencen con O
+
+Qué alcaldía tiene más y cual menos PILARES.
+
+Cuál es el promedio de PILARES por alcaldía
+
 Realiza una presentación con los datos que consideres relevantes realizando un anális de esta base.
 
 
