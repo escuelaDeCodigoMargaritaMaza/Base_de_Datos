@@ -30,6 +30,10 @@ un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
 
+## MODELO
+
+![image](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/91554777/57ea118c-edea-4601-8ea1-ca3db4da34b8)
+
 
 ## SOLUCION PROPUESTA
     
