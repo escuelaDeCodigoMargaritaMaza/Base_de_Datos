@@ -1,3 +1,5 @@
+https://www.db-fiddle.com/f/i9W62xjFVsAyKoiNcNUuHe/1
+
 ![image](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/91554777/09e5dff8-20d3-4502-a6b2-185dc2f67e92)
 
 
