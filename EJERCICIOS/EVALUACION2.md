@@ -17,7 +17,7 @@ Ejercicio:
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
-
+https://www.db-fiddle.com/f/gPSEW9XKCbsXPnKeF9X6Sc/0
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
 
 ## Práctica 5.
