@@ -1,7 +1,7 @@
 ![image](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/91554777/45cad88d-d460-4c04-aadd-1af9ddedb787)
 
 
-      CREATE DATABASE pasteleria;
+     CREATE DATABASE pasteleria;
       CREATE DATABASE papeleria;
       CREATE DATABASE tienda;
       
@@ -38,14 +38,24 @@
       CREATE TABLE categoria_prov(
         codigo_categoria CHAR(4)PRIMARY KEY,
         nombre_categoria VARCHAR(10),
-        codigo_proveedor2 CHAR(4)
+        codigo_proveedor2 CHAR(4),
+        FOREIGN KEY (codigo_proveedor2) REFERENCES proveedor(codigo_proveedor)
       );
       
       CREATE TABLE producto(
         codigo_producto CHAR(4) PRIMARY KEY,
         nombre_producto VARCHAR(10),
         precio_producto DOUBLE,
-        codigo_proveedor1 CHAR(4)
+        codigo_proveedor1 CHAR(4),
+        FOREIGN KEY (codigo_proveedor1) REFERENCES proveedor(codigo_proveedor)
+      );
+      
+      
+      CREATE TABLE nota(
+       codigo_cliente1 CHAR(4),
+       codigo_producto1 CHAR(4),
+       FOREIGN KEY (codigo_cliente1) REFERENCES cliente(codigo_cliente),
+       FOREIGN KEY (codigo_producto1) REFERENCES producto(codigo_producto)
       );
 
 
