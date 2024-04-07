@@ -63,3 +63,6 @@
 
 # VERSION 2
 
+![image](https://github.com/escuelaDeCodigoMargaritaMaza/Base_de_Datos/assets/91554777/5943b436-a663-43a6-93fd-7ad2d226419f)
+
+
