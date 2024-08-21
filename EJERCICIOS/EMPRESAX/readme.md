@@ -75,3 +75,11 @@
       );
 
 <img width="259" alt="image" src="https://github.com/user-attachments/assets/c930b6e2-0b93-4042-96a1-d65b13a796e1">
+
+      /* AGREGAR A LA TABLA empleado LA EDAD */
+      ALTER TABLE empleado
+      ADD edad_empleado INT;
+      
+      /*CAMBIAR TAMAÑO DE LA DIRECCION DE SUCURSAL*/
+      ALTER TABLE sucursal
+      CHANGE direccion_sucursal direccion_sucursal VARCHAR(200);
