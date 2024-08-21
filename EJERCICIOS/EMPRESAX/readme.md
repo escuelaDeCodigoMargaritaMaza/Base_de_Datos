@@ -45,3 +45,11 @@
           codigo_provedor1 CHAR(5),
           FOREIGN KEY (codigo_provedor1) REFERENCES provedor (codigo_provedor)
       );
+      CREATE TABLE categoria(
+      	codigo_categoria CHAR(5) PRIMARY KEY,
+          nombre_categoria VARCHAR(20) NOT NULL,
+          descripcion_categoria VARCHAR(50),
+          codigo_provedor2 CHAR(5),
+          FOREIGN KEY (codigo_provedor2) REFERENCES provedor(codigo_provedor)
+          
+      );
