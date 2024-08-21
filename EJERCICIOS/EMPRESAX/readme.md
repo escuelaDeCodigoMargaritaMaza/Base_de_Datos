@@ -36,3 +36,12 @@
           codigo_sucursal1 CHAR(5),
           FOREIGN KEY (codigo_sucursal1) REFERENCES sucursal (codigo_sucursal)
       );
+      CREATE TABLE producto(
+      	codigo_producto CHAR(5) PRIMARY KEY,
+          nombre_producto VARCHAR(20) NOT NULL,
+          precio_producto DOUBLE UNSIGNED,
+          existencia_producto INT UNSIGNED,
+          descripcion_producto VARCHAR(200),
+          codigo_provedor1 CHAR(5),
+          FOREIGN KEY (codigo_provedor1) REFERENCES provedor (codigo_provedor)
+      );
