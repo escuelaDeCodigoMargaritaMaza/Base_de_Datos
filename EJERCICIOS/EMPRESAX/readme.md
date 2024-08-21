@@ -9,3 +9,21 @@
 *      - TABLE
 *  
 * USE (NOMBRE DE LA BASE)
+
+
+      CREATE DATABASE empresaX;
+      USE empresaX;
+      CREATE TABLE sucursal(
+      	codigo_sucursal CHAR(5) PRIMARY KEY,
+          direccion_sucursal VARCHAR(20),
+          tel_sucursal CHAR(10),
+          correo_sucursal VARCHAR(50)
+      );
+      CREATE TABLE provedor(
+          codigo_provedor CHAR(5) PRIMARY KEY,
+          nombre_provedor VARCHAR(20) NOT NULL,
+          direccion_provedor VARCHAR(200),
+          tel_provedor CHAR(10),
+          correo_provedor VARCHAR(20),
+          tipo_provedor VARCHAR(20)
+      );
