@@ -63,3 +63,13 @@
           codigo_sucursal2 CHAR(5),
           FOREIGN KEY (codigo_sucursal2) REFERENCES sucursal(codigo_sucursal)
       );
+
+        CREATE TABLE venta(
+      	codigo_cliente1 CHAR(5),
+          codigo_producto1 CHAR(5),
+          fecha_compra DATE,
+          cantidad INT,
+          total DOUBLE,
+          FOREIGN KEY (codigo_cliente1) REFERENCES cliente(codigo_cliente),
+          FOREIGN KEY (codigo_producto1) references producto(codigo_producto)
+      );
