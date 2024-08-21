@@ -73,3 +73,5 @@
           FOREIGN KEY (codigo_cliente1) REFERENCES cliente(codigo_cliente),
           FOREIGN KEY (codigo_producto1) references producto(codigo_producto)
       );
+
+<img width="259" alt="image" src="https://github.com/user-attachments/assets/c930b6e2-0b93-4042-96a1-d65b13a796e1">
