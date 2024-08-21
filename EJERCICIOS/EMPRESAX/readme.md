@@ -53,3 +53,13 @@
           FOREIGN KEY (codigo_provedor2) REFERENCES provedor(codigo_provedor)
           
       );
+
+        CREATE TABLE empleado(
+      	codigo_empleado CHAR(5) PRIMARY KEY,
+          nombre_empleado VARCHAR(50) NOT NULL,
+          direccion_empleado VARCHAR(200),
+      	tel_empleado CHAR(10),
+          correo_empleado VARCHAR(20),
+          codigo_sucursal2 CHAR(5),
+          FOREIGN KEY (codigo_sucursal2) REFERENCES sucursal(codigo_sucursal)
+      );
