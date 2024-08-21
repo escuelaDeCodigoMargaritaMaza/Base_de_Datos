@@ -27,3 +27,12 @@
           correo_provedor VARCHAR(20),
           tipo_provedor VARCHAR(20)
       );
+      CREATE TABLE cliente(
+      	codigo_cliente CHAR(5) PRIMARY KEY,
+          nombre_cliente VARCHAR(50) NOT NULL,
+          direccion_cliente VARCHAR(200),
+          tel_cliente CHAR(10),
+          correo_cliente VARCHAR(50),
+          codigo_sucursal1 CHAR(5),
+          FOREIGN KEY (codigo_sucursal1) REFERENCES sucursal (codigo_sucursal)
+      );
