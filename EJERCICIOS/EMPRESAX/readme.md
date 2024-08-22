@@ -83,3 +83,6 @@
       /*CAMBIAR TAMAÑO DE LA DIRECCION DE SUCURSAL*/
       ALTER TABLE sucursal
       CHANGE direccion_sucursal direccion_sucursal VARCHAR(200);
+
+
+https://www.db-fiddle.com/f/rLRxgy9kynr2oiV4s5WNHe/0
