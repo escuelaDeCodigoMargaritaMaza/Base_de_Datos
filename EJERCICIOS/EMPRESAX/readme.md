@@ -85,4 +85,15 @@
       CHANGE direccion_sucursal direccion_sucursal VARCHAR(200);
 
 
+      ALTER TABLE venta
+      RENAME nota_venta;
+      
+      ALTER TABLE provedor
+      DROP tipo_provedor;
+      
+      /*DROP TABLE cliente;*/
+      
+      /*DROP DATABASE empresaX*/
+      /*INSERTAR DATOS*/
+
 https://www.db-fiddle.com/f/rLRxgy9kynr2oiV4s5WNHe/0
