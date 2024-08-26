@@ -9,6 +9,9 @@ Una revista puede ser publicada por varias sucursales.
 La editorial tiene periodistas (que no trabajan en las sucursales) que pueden escribir artículos para varias revistas. Almacenaremos los mismos datos que para los empleados, añadiendo su especialidad.
 
 
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/ef12abf2-52ee-46da-9014-8a2ac44ae2d3">
+
+
     CREATE DATABASE editorial;
     USE editorial;
     CREATE TABLE sucursal(
